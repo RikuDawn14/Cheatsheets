@@ -107,6 +107,13 @@ Operators are generally used to delete or change text. A *Motion* or *Text Objec
 **`as`** - *[A Sentence]()*  
 **[TOC](#table-of-contents)**  
 
+### Selecting 
+*Selecting* text or line can be useful in copy, paste and deleting operations. 
+
+**`v`** - (lower case v) begins regular Visual mode, and works similar to selecting text with a mouse. Use h and l to expand the selection left and right to include more words, and use j and k to expand the selection to the lines below and above.
+**`V`** - (upper case v) begins linewise visual mode. This selects entire lines of text at a time. Use j and k to expand the selection up and down.
+**`Ctrl+v`** - (lower case v) enters block visual mode. This selects text in a block format, allowing you to select parts of multiple lines without including the entire line. Use hjkl for movement as usual.
+
 ### Command-Lines
 A *Vim* *Command-Line* should not be confused with a *Command* in *Normal* Mode or a *Shell Command*. Complete a *Command-Line* by **`Enter`** or **`Return`** key.
 
