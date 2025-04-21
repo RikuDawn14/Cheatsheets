@@ -1,4 +1,4 @@
-# This is a fork from the https://github.com/im-luka/markdown-cheatsheet
+This is a fork from the https://github.com/im-luka/markdown-cheatsheet
 
 
 ---
