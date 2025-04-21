@@ -1,5 +1,6 @@
 This is a fork from https://github.com/RehanSaeed/Bash-Cheat-Sheet
 - added awk commands
+- changed file names from foo to uscg
 ***
 
  A cheat sheet for bash commands.
