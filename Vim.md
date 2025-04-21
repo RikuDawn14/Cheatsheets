@@ -108,7 +108,7 @@ Operators are generally used to delete or change text. A *Motion* or *Text Objec
 **[TOC](#table-of-contents)**  
 
 ### Selecting 
-*Selecting* text or line can be useful in copy, paste and deleting operations. 
+*Selecting* text or lines can be useful in copy, paste and deleting operations. 
 
 **`v`** - (lower case v) begins regular Visual mode, and works similar to selecting text with a mouse. Use h and l to expand the selection left and right to include more words, and use j and k to expand the selection to the lines below and above.
 **`V`** - (upper case v) begins linewise visual mode. This selects entire lines of text at a time. Use j and k to expand the selection up and down.
